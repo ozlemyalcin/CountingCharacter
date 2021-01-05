@@ -1,0 +1,12 @@
+/Users/admin/codeCamp2020/visual_studio/csharp-web-dev-lsn2controlflowandcollections/CountingCharacter/bin/Debug/netcoreapp3.1/CountingCharacter.deps.json
+/Users/admin/codeCamp2020/visual_studio/csharp-web-dev-lsn2controlflowandcollections/CountingCharacter/bin/Debug/netcoreapp3.1/CountingCharacter.runtimeconfig.json
+/Users/admin/codeCamp2020/visual_studio/csharp-web-dev-lsn2controlflowandcollections/CountingCharacter/bin/Debug/netcoreapp3.1/CountingCharacter.runtimeconfig.dev.json
+/Users/admin/codeCamp2020/visual_studio/csharp-web-dev-lsn2controlflowandcollections/CountingCharacter/bin/Debug/netcoreapp3.1/CountingCharacter.dll
+/Users/admin/codeCamp2020/visual_studio/csharp-web-dev-lsn2controlflowandcollections/CountingCharacter/bin/Debug/netcoreapp3.1/CountingCharacter.pdb
+/Users/admin/codeCamp2020/visual_studio/csharp-web-dev-lsn2controlflowandcollections/CountingCharacter/obj/Debug/netcoreapp3.1/CountingCharacter.csprojAssemblyReference.cache
+/Users/admin/codeCamp2020/visual_studio/csharp-web-dev-lsn2controlflowandcollections/CountingCharacter/obj/Debug/netcoreapp3.1/CountingCharacter.AssemblyInfoInputs.cache
+/Users/admin/codeCamp2020/visual_studio/csharp-web-dev-lsn2controlflowandcollections/CountingCharacter/obj/Debug/netcoreapp3.1/CountingCharacter.AssemblyInfo.cs
+/Users/admin/codeCamp2020/visual_studio/csharp-web-dev-lsn2controlflowandcollections/CountingCharacter/obj/Debug/netcoreapp3.1/CountingCharacter.csproj.CoreCompileInputs.cache
+/Users/admin/codeCamp2020/visual_studio/csharp-web-dev-lsn2controlflowandcollections/CountingCharacter/obj/Debug/netcoreapp3.1/CountingCharacter.dll
+/Users/admin/codeCamp2020/visual_studio/csharp-web-dev-lsn2controlflowandcollections/CountingCharacter/obj/Debug/netcoreapp3.1/CountingCharacter.pdb
+/Users/admin/codeCamp2020/visual_studio/csharp-web-dev-lsn2controlflowandcollections/CountingCharacter/obj/Debug/netcoreapp3.1/CountingCharacter.genruntimeconfig.cache
